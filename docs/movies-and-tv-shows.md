@@ -126,6 +126,7 @@ sidebar_label: Movies and TV shows
 - [puretoons](https://puretoons.me/) - Animated Hindi movies.
 - [deadtoonsindia](https://deadtoonsindia.ne) - Animated Hindi movie & tv shows.
 - [reelgood](https://reelgood.com/) -Legal Multi Service provider for Netflix, Hulu & Co.
+- [akwam.co](https://akwam.co/) -Watch movies and TV shows online..
 
 ### Streaming 1080p
 
